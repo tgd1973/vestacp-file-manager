@@ -23,7 +23,7 @@ This is free vestacp file manager
 
 ### Installing
 ```
-wget 'http://vesta.jetx.info/elfm.sh' && sh elfm.sh
+wget 'https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/vesta-elfm.sh' && sh vesta-elfm.sh
 ```
 
 its automatic plugin install in vestacp.
@@ -36,5 +36,5 @@ done..
 
 ### VestaCP Default FileManager Active Command
 ```
-wget 'http://vesta.jetx.info/vestafm.sh' && sh vestafm.sh
+wget 'https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/vestafm.sh' && sh vestafm.sh
 ```
