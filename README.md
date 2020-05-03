@@ -14,7 +14,7 @@ done..
 HestiaCP Default FileManager Active Command:
 wget 'https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/hestiafm.sh' && sh hestiafm.sh
 
-#_________________________________________
+_________________________________________________________________
 
 
 # VestaCP-file-manager
