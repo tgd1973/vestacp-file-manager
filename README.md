@@ -2,8 +2,9 @@
 This is free hestiacp file manager
 
 ### Installing
+```
 wget 'https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/hestia-elfm.sh' && sh hestia-elfm.sh
-
+```
 its automatic plugin install in hestiacp.
 
 ### Usage:
@@ -12,8 +13,9 @@ then goto your hestiacp click on EL FM
 done..
 
 ### HestiaCP Default FileManager Active Command:
+```
 wget 'https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/hestiafm.sh' && sh hestiafm.sh
-
+```
 _________________________________________________________________
 
 
