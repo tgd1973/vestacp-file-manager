@@ -1,4 +1,4 @@
-# HestiaCP-file-manager
+# HestiaCP-file-manager (for admin only)
 This is free hestiacp file manager
 
 ### Installing
@@ -19,7 +19,7 @@ wget 'https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/hest
 _________________________________________________________________
 
 
-# VestaCP-file-manager
+# VestaCP-file-manager (for admin only)
 This is free vestacp file manager
 
 
