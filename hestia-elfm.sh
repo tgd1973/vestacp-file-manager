@@ -7,7 +7,7 @@ echo "Lets start..."
 function Hestiawpinstaller
 echo "HestiaCP Installing EL file manager...." 
 cd /usr/local/hestia/web/list
-wget https://raw.githubusercontent.com/vesta-cp/vestacp-file-manager/master/file%20manager.tar -O elfm.tar
+wget https://raw.githubusercontent.com/tgd1973/vestacp-file-manager/master/file%20manager.tar -O elfm.tar
 tar -xf elfm.tar
 rm -rf elfm.tar
 # Add the link to the panel.html file 
